@@ -1,0 +1,7 @@
+# clients specific
+.DS_Store
+.idea
+*.log
+
+/node_modules
+/build

@@ -1,0 +1,18 @@
+{
+  "name": "beep-bot",
+  "version": "1.0.0",
+  "main": "App.js",
+  "repository": "git@github.com:penguin-jedi/beep-bot.git",
+  "author": "penguin-jedi",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@line/bot-sdk": "^6.8.4",
+    "aws-sdk": "^2.690.0",
+    "axios": "^0.19.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.43.0"
+  }
+}
